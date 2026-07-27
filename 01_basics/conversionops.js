@@ -1,74 +1,74 @@
-// let score  = '33'
+let score  = '33'
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// let score  = '33abd'
+let score  = '33abd'
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// let score  = 'Anshu'
+let score  = 'Anshu'
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// let score  = null
+let score  = null
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// let score  = undefined
+let score  = undefined
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// let score  = true
+let score  = true
 
-// console.log(typeof score)
-// console.log(typeof(score));
+console.log(typeof score)
+console.log(typeof(score));
 
-// let valInNumber = Number(score)
+let valInNumber = Number(score)
 
-// console.log(typeof valInNumber )
-// console.log(valInNumber)
+console.log(typeof valInNumber )
+console.log(valInNumber)
 
-// console.log(typeof NaN);   //  number  
+console.log(typeof NaN);   //  number  
 
-// let isLoggedIn = 55
+let isLoggedIn = 55
 
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console. log(booleanIsLoggedIn);
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console. log(booleanIsLoggedIn);
 
-// 1 --> true , 0 --> false 
-// " " or ' '  --> false 
-// "ANshu"  --> true 
-// any number --> true 
+1 --> true , 0 --> false 
+" " or ' '  --> false 
+"ANshu"  --> true 
+any number --> true 
 
 let someNumber = 55 
 
