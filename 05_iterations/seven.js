@@ -1,0 +1,24 @@
+const myNumers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+// const newNums = myNumers.map( (num) => { return num + 10})
+
+const newNums = myNumers
+                .map((num) => num * 10 )
+                .map( (num) => num + 1)
+                .filter( (num) => num >= 40)
+
+console.log(newNums);
+// this is chaining (use more than one method)
+
+// let res = []
+// myNumers.forEach((item) => {
+//     item = item + 10; 
+//     res.push(item)
+    
+// })
+
+// console.log(res);
+
+//  myNumers.forEach((item) => {
+//      console.log(item + 10);
+//  })
