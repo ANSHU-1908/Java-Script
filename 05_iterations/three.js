@@ -29,7 +29,7 @@ for (const [key, value] of map) {
     // console.log(key, ':-', value);
 }
 
-// maps are iterateable
+// maps , (Array ,String ,Set ) , are iterateable
 // object is non iterateable 
 
 const myObject = {
