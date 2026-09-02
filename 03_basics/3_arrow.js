@@ -55,12 +55,14 @@ const user = {
 //     return num1 + num2
 // }
 
-// const addTwo = (num1, num2) =>  num1 + num2
+// when we open scope we have to use return keyword but but if we dont use scope no need to use return keyword
 
-// const addTwo = (num1, num2) => ( num1 + num2 )
 
-// const addTwo = (num1, num2) => ({username: "hitesh"})
+// const addTwo = (num1, num2) =>  num1 + num2   // way to retun 
 
+// const addTwo = (num1, num2) => ( num1 + num2 )  // way to return
+
+// const addTwo = (num1, num2) => ({username: "hitesh"})   // way to return an object 
 
 // console.log(addTwo(3, 4))
 
